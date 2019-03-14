@@ -1,0 +1,6 @@
+---
+applications:
+- name: umbraco
+  memory: 1024m
+  stack: windows2016 
+  buildpack: hwc_buildpack
